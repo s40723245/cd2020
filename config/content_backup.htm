@@ -40,18 +40,170 @@
 <p><span>直播影片 : <a href="https://www.youtube.com/watch?v=r0AABAp474U">https://www.youtube.com/watch?v=r0AABAp474U</a></span></p>
 <p><span><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/r0AABAp474U" width="560"></iframe></span></p>
 <p><span style="color: #00ff00;"><big>week3</big></span></p>
-<p></p><h1>About</h1>
-<p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
-<h4>利用 cmsimde 建立靜態網誌方法:</h4>
-<p>1. 在 github 建立倉儲, git clone 到近端</p>
-<p>2. 參考 <a href="https://github.com/mdecourse/newcms">https://github.com/mdecourse/newcms</a>, 加入除了 cmsimde 目錄外的所有內容</p>
-<p>以 git submodule add <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> cmsimde</p>
-<p>建立 cmsimde 目錄, 並從 github 取下子模組內容.</p>
-<p>3.在近端維護時, 更換目錄到倉儲中的 cmsimde, 以 python wsgi.py 啟動近端網際伺服器.</p>
-<p>動態內容編輯完成後, 以 generate_pages 轉為靜態內容, 以 git add commit 及 push 將內容推到遠端.</p>
-<p>4. 之後若要以 git clone 取下包含 submodule 的所有內容, 執行:</p>
-<p>git clone --recurse-submodules <a href="https://github.com/mdecourse/newcms.git">https://github.com/mdecourse/newcms.git</a></p>
-<h1>Develop</h1>
-<p><a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 的開發, 可以在一個目錄中放入 cmsimde, 然後將 up_dir 中的內容放到與 cmsimde 目錄同位階的地方, 使用 command 進入 cmsimde 目錄, 執行 python wsgi.py, 就可以啟動, 以瀏覽器 https://localhost:9443 就可以連接, 以 admin 作為管理者密碼, 就可以登入維護內容.</p>
-<p>cmsimde 的開發採用 Leo Editor, 開啟 cmsimde 目錄中的 cmsimde.leo 就可以進行程式修改, 結束後, 若要保留網際內容, 只要將 cmsimde 外部的內容倒回 up_dir 目錄中即可後續對 cmsimde 遠端倉儲進行改版.</p>
-<p>init.py 位於  up_dir 目錄, 可以設定 site_title 與 uwsgi 等變數.</p>
+<p>以下是我亂數分組的操作影片</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/k8Ag3kVj6lg" width="560"></iframe></p>
+<h2>Week6-9</h2>
+<p>第二次分組直播影片:<a href="https://youtu.be/a69tNWKmC64">https://youtu.be/a69tNWKmC64</a></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/a69tNWKmC64" width="560"></iframe></p>
+<p></p>
+<h1>Assignment</h1>
+<p></p>
+<h2>Assignment1</h2>
+<p><span>2a類將於2020年3月25日到期，而2b類將於2020年3月26日到期。</span></p>
+<ol>
+<li>
+<p><span><span>請描述如何針對該課程進行有效的隨機分組，或者隨機進行點名？</span></span></p>
+</li>
+<li>
+<p><span><span>描述如何為Windows 10 64位系統準備一個可移植的Python編程系統，以允許在Github上維護CMSiMDE網站，Pelican博客和Reveal.js演示文稿？</span></span></p>
+</li>
+<li>
+<p><span><span>您需要從</span></span><a href="http://www.coppeliarobotics.com/helpFiles/index.html" rel="nofollow"><span><span>http://www.coppeliarobotics.com/helpFiles/index.html</span></span></a><span><span>了解什麼</span><span>來實現四</span></span><span><span>輪機器人？</span></span></p>
+</li>
+</ol>
+<h2>Assignment2</h2>
+<p><span>2a類將於2020年4月22日到期，2b類將於2020年4月23日到期。</span></p>
+<ol>
+<li>
+<p><span><span>根據主題0和主題1的材料，您能否具體描述機械設計團隊為完成分配1的四輪機器人需要做什麼。</span></span></p>
+</li>
+</ol>
+<p></p>
+<p>Collaborative product design processes ofindustrial design and engineering design inconsumer product companies</p>
+<p>工程設計和工業設計對向市場推出成功產品至關重要，產品設計很難從單一學科的角度來解釋。<span>”</span>協同產品設計<span>”</span>是指工業設計和電子設計合作貢獻而創造的產品設計，特別是在公司環境中，協同產品設計涉及一系列設計活動，比如說創建最初產品概念、內部規格決策以及外觀和內部結構的開發。</p>
+<p><strong>1.</strong><strong>研究方法</strong></p>
+<p>   為了研究協作產品設計過程的類型和相關條件，我們設計的「馬賽克方法」，以重建工業設計師和工程設計師之間的協同設計過程。基礎理論方法在社會科學中被廣泛採用，作為為較少研究領域建立理論的系統方法<span>,</span>而在設計研究中，它已被長期採用。實際設計過程及其與上下文相關的特徵可以從實際設計項目中確定，這可能不同於公司記錄的設計流程。比較兩者將提供洞察力。但是<span>,</span>我們無法收集它們，因為它們被視為對外部保密。相反，我們詢問受訪者，他們的公司是否有有文檔記錄的標準設計流程，以及它是否與實際設計流程不相讓。</p>
+<p><strong>1.1</strong><strong>深入訪談</strong></p>
+<p><strong>1.1.1</strong><strong>案列公司的選擇</strong></p>
+<p>為了提高適用性，設計過程應在公司的背景和環境範圍內理解因此，我們設定了三個標準，通過對案例公司進行探索。通過的三項標準如下<span>:</span></p>
+<p>(1) 這些公司應該生產中複雜的電子消費品。</p>
+<p>(2) 他們應該有獨立的工業設計和工程設計部門。</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>圖<span>1 </span>研究專業</p>
+<p>(3) 他們應該是市場領先的公司，生產設計良好的高品質產品。</p>
+<p>第一個標準使在產品領域環境中具有類似條件的製造商得以選擇，其中工業設計師和工程設計師都扮演著重要的角色。</p>
+<p><strong>1.1.2 </strong><strong>受訪者的選擇</strong></p>
+<p>我們選擇了有目的和<span>snowball</span>採樣方法的被採訪者。每家公司的看門人都建議他們的設計師，而設計師又推薦了同事。在這樣做的同時，我們選擇了符合以下三個標準的被採訪者<span>:</span></p>
+<p>(1) 兩年以上在<span>company</span>的經驗</p>
+<p>(2) 參與產品開發過程的至少一個週期</p>
+<p>(3) 與同行<span>(</span>即工業設計師與工程設計師<span>)</span>密切協作和互動</p>
+<p><strong>1.1.3 </strong><strong>面試程式</strong></p>
+<p>我們採用了半結構化的深入面試方法，遵循文獻的建議指導。我們首先列出了大約<span>20</span>個詳細的問題，並將其分為四個主題<span>:(1)</span>個人資訊<span>(2)</span>設計過程<span>(3)</span>角色和專業知識<span>(4)</span>互動。然後，我們提出了四個關鍵問題<span>:</span></p>
+<p>(1) 你在隊里的位置和位置是什麼<span>?</span></p>
+<p>(2) 產品設計流程如何進行，過程中發生了什麼<span>?</span></p>
+<p>(3) 您在設計過程中有哪些任務，執行專案需要哪些知識和技能<span>?</span></p>
+<p>(4) 工業設計<span>(</span>工<span>)</span>和工程設計在設計過程中如何相互作用<span>?</span></p>
+<p>表<span>1 </span>案例公司資訊</p>
+<table width="551">
+<tbody>
+<tr>
+<td width="83">
+<p>公司</p>
+</td>
+<td width="144">
+<p>商務領域</p>
+</td>
+<td width="169">
+<p>工業設計師人數</p>
+</td>
+<td width="155">
+<p>工程設計師人數</p>
+</td>
+</tr>
+<tr>
+<td width="83">
+<p>公司 A</p>
+</td>
+<td width="144">
+<p>家電</p>
+</td>
+<td width="169">
+<p>10e20</p>
+</td>
+<td width="155">
+<p>50e100</p>
+</td>
+</tr>
+<tr>
+<td width="83">
+<p>公司 B</p>
+</td>
+<td width="144">
+<p>IT 產品</p>
+</td>
+<td width="169">
+<p>5.e10</p>
+</td>
+<td width="155">
+<p>5.e10</p>
+</td>
+</tr>
+<tr>
+<td width="83">
+<p>公司 C</p>
+</td>
+<td width="144">
+<p>移動通信</p>
+</td>
+<td width="169">
+<p>40e50</p>
+</td>
+<td width="155">
+<p>50e100</p>
+</td>
+</tr>
+<tr>
+<td width="83">
+<p>公司 D</p>
+</td>
+<td width="144">
+<p>移動通信</p>
+</td>
+<td width="169">
+<p>50e100</p>
+</td>
+<td width="155">
+<p>100e200</p>
+</td>
+</tr>
+<tr>
+<td width="83">
+<p>E 公司</p>
+</td>
+<td width="144">
+<p>安全設備</p>
+</td>
+<td width="169">
+<p>5.e10</p>
+</td>
+<td width="155">
+<p>20e30</p>
+</td>
+</tr>
+<tr>
+<td width="83">
+<p>公司 F</p>
+</td>
+<td width="144">
+<p>家電</p>
+</td>
+<td width="169">
+<p>5.e10</p>
+</td>
+<td width="155">
+<p>30e40</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>1.2  </strong><strong>識別設計流程</strong></p>
+<p><strong>1.2.1 </strong><strong>確定每個人經歷的設計流程</strong></p>
+<p>雖然所有轉錄的數據都載有與設計過程有關的資訊，但它們都與其他內容混合在一起，包括專案的情況和目標、個人的作用、必要的技能和知識、行為者之間的衝突、彼此的感知圖像等。我們首先通過審查相關文獻來確定過程要素用於構建設計過程的<span>"</span>過程元素<span>"</span>，從而制定了編碼框架。我們多次通過多次抄錄公司的採訪記錄來證實他們。關於過程建模的兩種觀點，觀看過程作為資訊處理和狀態轉換系統，為流程建模的流程元素編碼類別提供了有意義的線索。</p>
+<p>進入狀態轉換，有兩個活動<span>:</span>執行任務和評估結果。大多數情況下，評估發生在相對較短的時間段內，以決定<span>"</span>前進、重複或下降<span>"</span>。因此<span>,</span>我們把這類活動<span>(</span>評估、設計重新查看、門查、決策<span>)</span>命名為<span>"</span>事件<span>"</span>。在此關頭，我們有兩個編碼類別<span>;'</span>任務<span>'</span>和<span>'</span>事件<span>'</span>。最後<span>,</span>我們可以對設計過程進行四個編碼類別的建模<span>;'</span>任務<span>'''</span>事件<span>',"</span>資訊流<span>"</span>和<span>"</span>交互<span>"</span>，可以表示與階段的連接。此時，設計過程的階段可以使用「輸入<span>e</span>工作<span>(</span>設計活動<span>)ee</span>事件<span>(</span>決策<span>)ee</span>輸出「來表示。下面介紹了如何使用上述四個編碼類別對流程元素進行編碼。</p>
+<p> 任務<span>:</span>清除設計人員執行的任務<span>,</span>如<span>"</span>創意草圖<span>"</span>、<span>"3D </span>建模<span>"</span>等。答辯人說<span>;</span>是的<span>,</span>我用圓珠筆做素描來表達我的想法。很少著色或掃描它，以修飾<span> Photoshop</span>。<span>'</span>我們將其編碼為一個任務類別，標籤為<span>"</span>創意草圖<span>"</span>。</p>
+<p> 事件<span>:</span>在特定任務之後，事件<span>(</span>決策<span>)</span>繼續進行，從而導致下一個操作。答辯人說<span>;</span>我們去類比公司製作原型，並帶來所有兩個或三個原型。與他們舉行模擬評估會議。工程師們聽了老闆的批評。老闆說，這是，也就是說，那麼如果工程師有不同的想法，他們提供的意見。<span>.(</span>省略<span>). </span>最後選擇了一個。我們在事件類別中使用標籤<span>"</span>類比評估會議<span>"</span>對其進行編碼。資訊流<span>:</span>當發生任務或事件時生成資訊流。它總是伴隨著輸入和輸出。答辯人說<span>;</span>事實上，我們根據從工程設計公司收到的規範開展工作。在有事到達之前，我們不會開始工作。描述工業設計師從工程設計師那裡收到<span>"</span>規範數據<span>"</span>作為輸入<span>,</span>他們開始工作。我們將此<span>"</span>從<span> ED </span>的規範數據編碼為<span> ID</span>」。另一個摘錄是，選擇模型后，我們將模型的<span> 3D </span>數據傳遞給工程部門。</p>
+<h2>Assignment3</h2>
+<p></p>
