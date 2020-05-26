@@ -18,11 +18,20 @@
 <v t="leo.20180902120523.6"><vh>body</vh>
 <v t="leo.20180902120523.7"><vh>reveal div</vh>
 <v t="leo.20180902120523.8"><vh>slides div</vh>
-<v t="leo.20180902120523.9"><vh>封面投影片</vh>
+<v t="leo.20180902120523.9"><vh>title</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200527034008.1"><vh>封面投影片</vh>
+<v t="leo.20200527034008.1"><vh>week1</vh>
 <v t="leo.20200527034008.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200527041940.1"><vh>week2</vh>
+<v t="leo.20200527041940.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200527041949.1"><vh>week3</vh>
+<v t="leo.20200527041949.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200527042135.1"><vh>week4</vh>
+<v t="leo.20200527042135.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -57,6 +66,7 @@ Created by [s40723245](https://s40723245.github.io/cd2020)
 
 * [個人倉儲](https://s40723245.github.io/cd2020)
 * [分組倉儲](https://s40723210.github.io/cd2020bg4/content/index.html)
+* [Youtube](https://www.youtube.com/channel/UCyxnVKq1IC6zLvA0-dUMpxg/featured?view_as=subscriber)
 
 </t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
@@ -334,16 +344,55 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200527034008.2">## CMSimfly 網際內容管理
+<t tx="leo.20200527034008.2"># week1
+創立一個cd2020的倉儲
 
-### KMOLab
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_k2VWUpOIsY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
-&lt;/small&gt;
+</t>
+<t tx="leo.20200527041940.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
 
+						
+</t>
+<t tx="leo.20200527041940.2"># week2
+組長開直播進行分組討論
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/r0AABAp474U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200527041949.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200527041949.2"># week3
+亂數分組的操作影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k8Ag3kVj6lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200527042135.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200527042135.2"># week4
+Assignment1 報告
+
+&lt;iframe height="600" src="https://s40723245.github.io/cd2020/downloads/Assignment1.pdf" width="880"&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
