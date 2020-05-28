@@ -156,7 +156,11 @@ img.add_border {
         </header>
     <div id="tipue_search_content">Notes << <a href='Notes.html'>Previous</a> <a href='Q&A.html'>Next</a> >> Q&A<br /><h1>Program instructions</h1>
 <p><big><span style="color: #ff0000;">git submodule add</span> <span style="color: #00ff00;">https://github.com/mdecourse/cmsimde.git cmsimde</span><br/><span style="color: #ff0000;">python -m pip install flask_cors</span> 要更新下載flask_cors<br/><span style="color: #ff0000;">git clone --recurse-submodules</span> <span style="color: #00ff00;">https://github.com/solvespace/solvespace.git solvespace</span><br/>從遠端copy cmsimde必須，網址改cmsimde的<br/>pelican markdown -o blog -s local_publishconf.py<br/>&lt;font size="1"&gt;指定字體大小為1&lt;/font&gt; **最多到7<br/><span style="color: #ff0000;">git checkout -b s40723245-master</span> master 切換成master主支<br/><span style="color: #ff0000;">git branch</span> 確定主支</big></p>
-<p><big>p.s. 紅字為指令，綠字為網址</big></p><br />Notes << <a href='Notes.html'>Previous</a> <a href='Q&A.html'>Next</a> >> Q&A</div>
+<p><big>問題1</big></p>
+<p><big>git clone後cmsimde無資料問題</big></p>
+<p><big>解決辦法</big></p>
+<p><big><span><span style="color: #ff0000;">git submodule init</span>(須在cmsimde打)</span><br/><span><span style="color: #ff0000;">git submodule update</span>(須在cmsimde打)</span></big></p>
+<p>p.s. 紅字為指令，綠字為網址</p><br />Notes << <a href='Notes.html'>Previous</a> <a href='Q&A.html'>Next</a> >> Q&A</div>
         
     <!-- footer -->
       <div class="container">
