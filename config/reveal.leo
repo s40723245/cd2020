@@ -33,6 +33,27 @@
 <v t="leo.20200527042135.1"><vh>week4</vh>
 <v t="leo.20200527042135.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200616024658.1"><vh>week5</vh>
+<v t="leo.20200616024658.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200616025556.1"><vh>week6</vh>
+<v t="leo.20200616025556.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200616025604.1"><vh>week7</vh>
+<v t="leo.20200616025604.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200616030349.1"><vh>week7-1</vh>
+<v t="leo.20200616030349.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200616030351.1"><vh>week7-2</vh>
+<v t="leo.20200616030351.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200616025606.1"><vh>week8</vh>
+<v t="leo.20200616025606.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200616040022.1"><vh>week9</vh>
+<v t="leo.20200616040022.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -395,5 +416,109 @@ Assignment1 報告
 &lt;iframe height="600" src="https://s40723245.github.io/cd2020/downloads/Assignment1.pdf" width="880"&gt;&lt;/iframe&gt;
 
 </t>
+<t tx="leo.20200616024658.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200616024658.2"># week5
+
+補上之前沒做到的進度
+
+</t>
+<t tx="leo.20200616025556.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200616025556.2"># week6
+
+第二次分組直播影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a69tNWKmC64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200616025604.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200616025604.2"># week7
+
+第一次遠距離上課直播-1
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FaOQiIGeK0U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200616025606.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200616025606.2"># week8
+
+Assignment2 報告
+
+&lt;iframe height="600" src="https://s40723245.github.io/cd2020/downloads/Assignment2.pdf" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200616030349.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200616030349.2"># week7
+
+第一次遠距離上課直播-2
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nJa4iIpCoyk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20200616030351.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200616030351.2"># week7
+
+第一次遠距離上課直播-3
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/YR4KroWEbKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200616040022.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200616040022.2"># week9
+
+期中簡報影片因為做的東西尚未完成
+，所以沒上傳到youtube</t>
 </tnodes>
 </leo_file>
