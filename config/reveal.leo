@@ -66,6 +66,18 @@
 <v t="leo.20200617173819.1"><vh>week13</vh>
 <v t="leo.20200617173819.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200617175213.1"><vh>week14-1</vh>
+<v t="leo.20200617175213.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200617175224.1"><vh>week14-2</vh>
+<v t="leo.20200617175224.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200617175227.1"><vh>week15-1</vh>
+<v t="leo.20200617175227.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200617175835.1"><vh>week15-2</vh>
+<v t="leo.20200617175835.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -594,6 +606,70 @@ Assignment2 報告
 第六次分組直播影片
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CLbEVpAV7gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200617175213.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617175213.2"># wee14
+
+第七次分組直播影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N6jCSwv2eI0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200617175224.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617175224.2"># wee14
+
+Ipv6 Ubuntu對外連線設定
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QB2dhX-bsLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200617175227.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617175227.2"># week15
+
+Ipv4 Ubuntu對外連線設定-1
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8FuFv1jFpMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200617175835.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617175835.2"># week15
+
+Ipv4 Ubuntu對外連線設定-2
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6bWKP8PWglI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
