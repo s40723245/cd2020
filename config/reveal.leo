@@ -54,6 +54,18 @@
 <v t="leo.20200616040022.1"><vh>week9</vh>
 <v t="leo.20200616040022.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200617173812.1"><vh>week10</vh>
+<v t="leo.20200617173812.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200617173814.1"><vh>week11</vh>
+<v t="leo.20200617173814.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200617173816.1"><vh>week12</vh>
+<v t="leo.20200617173816.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200617173819.1"><vh>week13</vh>
+<v t="leo.20200617173819.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -520,5 +532,69 @@ Assignment2 報告
 
 期中簡報影片因為做的東西尚未完成
 ，所以沒上傳到youtube</t>
+<t tx="leo.20200617173812.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617173812.2"># week10
+
+第三次分組直播影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/GmKxlNPx-gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&gt;
+
+</t>
+<t tx="leo.20200617173814.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617173814.2"># week11
+
+第四次分組直播影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6sZEjxMWDZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200617173816.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617173816.2"># week12
+
+第五次分組直播影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/is_sLTLHV5M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200617173819.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200617173819.2"># wee13
+
+第六次分組直播影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CLbEVpAV7gs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
 </tnodes>
 </leo_file>
