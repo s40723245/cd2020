@@ -81,8 +81,11 @@
 <v t="leo.20200625030717.1"><vh>week16</vh>
 <v t="leo.20200625030717.2"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20200625040336.1"><vh>week17</vh>
+<v t="leo.20200625040336.1"><vh>week17-1</vh>
 <v t="leo.20200625040336.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200625054733.1"><vh>week17-2</vh>
+<v t="leo.20200625054733.2"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
@@ -704,6 +707,20 @@ Ipv6 Ubuntu對外連線設定編輯個人倉儲
 						
 </t>
 <t tx="leo.20200625040336.2"># week17
+
+Final project
+
+&lt;p&gt;&lt;iframe width="880" height="600" src="https://s40723245.github.io/cd2020/downloads/Final%20project.pdf"&gt;&lt;/iframe&gt;&lt;/p&gt;</t>
+<t tx="leo.20200625054733.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625054733.2"># week17
 
 期末影片
 
