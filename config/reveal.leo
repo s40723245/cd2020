@@ -78,6 +78,12 @@
 <v t="leo.20200617175835.1"><vh>week15-2</vh>
 <v t="leo.20200617175835.2"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200625030717.1"><vh>week16</vh>
+<v t="leo.20200625030717.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200625040336.1"><vh>week17</vh>
+<v t="leo.20200625040336.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -670,6 +676,36 @@ Ipv4 Ubuntu對外連線設定-1
 Ipv4 Ubuntu對外連線設定-2
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6bWKP8PWglI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200625030717.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625030717.2"># week16
+
+Ipv6 Ubuntu對外連線設定編輯個人倉儲
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pDA99CINIco" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+</t>
+<t tx="leo.20200625040336.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200625040336.2"># week17
+
+期末影片
 
 </t>
 </tnodes>

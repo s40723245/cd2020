@@ -2,11 +2,12 @@
 <p><a href="https://s40723245.github.io/cd2020/content/Week1-5.html">week1-5</a></p>
 <p><a href="https://s40723245.github.io/cd2020/content/Week6-9.html">week6-9</a></p>
 <p><a href="https://s40723245.github.io/cd2020/content/Week10-14.html">week10-14</a></p>
+<p><a href="https://s40723245.github.io/cd2020/content/Week15-18.html">week15-18</a></p>
+<p><a href="https://s40723245.github.io/cd2020/content/期末報告.html">期末報告</a></p>
 <p>倉儲網站:<a href="https://github.com/s40723245/cd2020">https://github.com/s40723245/cd2020</a></p>
 <p>Youtube Cannel:<a href="https://www.youtube.com/channel/UCyxnVKq1IC6zLvA0-dUMpxg?view_as=subscriber">https://www.youtube.com/channel/UCyxnVKq1IC6zLvA0-dUMpxg?view_as=subscriber</a></p>
 <p>分組倉儲:<a href="https://s40723210.github.io/cd2020bg4/content/index.html">https://s40723210.github.io/cd2020bg4/content/index.html</a></p>
 <p>gitter:<a href="https://gitter.im/40723210/cd2020">https://gitter.im/40723210/cd2020</a></p>
-<p></p>
 <h2>Week1-5</h2>
 <p><span style="color: #00ff00;"><big>week1</big></span></p>
 <p><strong><big>創立一個cd2020的倉儲</big></strong></p>
@@ -99,7 +100,8 @@
 <p>以下是我的操作影片:<a href="https://youtu.be/QB2dhX-bsLQ">https://youtu.be/QB2dhX-bsLQ</a></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/QB2dhX-bsLQ" width="560"></iframe></p>
 <p>第七次直播影片:<a href="https://youtu.be/N6jCSwv2eI0">https://youtu.be/N6jCSwv2eI0</a></p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/N6jCSwv2eI0" width="560"></iframe></p><h2>Week15-18</h2>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/N6jCSwv2eI0" width="560"></iframe></p>
+<h2>Week15-18</h2>
 <p><big>Ipv4 Ubuntu對外連線設定</big></p>
 <p>操作步驟:<br/>1.點選檔案-&gt;喜好設定-&gt;網路-&gt;新增一個新的NAT網路。<br/>2.編輯NAT網路-&gt;點選連接埠轉送-&gt;新增4個新的連接埠轉送埠號。<br/>3.設定主機IP為127.0.0.1；客體IP為10.0.2.4；主機連接埠為22、19999、17443、18443；客體連接埠為22、19999、7443、8443。<br/>4.點選設定-&gt;網路-&gt;設定主機網路為NAT Network。<br/>5.設定完後，點選啟動，接著輸入密碼kmol2020。<br/>6.開啟LXTermial，輸入ifconfig-&gt;輸入sudo apt install net-tools-&gt;輸入密碼kmol2020。<br/>7.cd tmp-&gt;ls-&gt;輸入ping 127.0.0.1測試-&gt;cd cd2020pj1-&gt;git pull。<br/>8.接著輸入sudo vi wsgi.py編輯內容，按i進行編輯。<br/>9.將近端的host改為10.0.2.4，接著按Esc並輸入:wq存儲。<br/>10.開啟leo，並開啟cd2020pj1.leo，點選Nav搜尋allowExt。<br/>11.點選fileuploadfrom，並將第10行新增一個ttt檔，完成後存儲並關閉leo。<br/>12.cd..,接著在tmp下新增oauth_scrum.txt，輸入sudo vi oauth_scrum.txt。<br/>13.按i編輯，內容先隨便輸入，接著按Esc並輸入:wq存儲。<br/>14.cd cd2020pj1，並輸入python3 wsgi.py啟動。<br/>15.網址為https:/127.0.0.1:18443/alogin。<br/>16.帳號及密碼都為admin，進入後點選fileuploadform，點選要上傳的ttt檔。<br/>17.點選download list檢查檔案是否上傳完成。<br/>18.完成。</p>
 <p>以下是我的操作影片:<a href="https://youtu.be/8FuFv1jFpMY">https://youtu.be/8FuFv1jFpMY</a></p>
@@ -107,7 +109,16 @@
 <p>在第一部影片在最後碰到了Mako error的問題，原因是虛擬主機的版本是舊版的，需要更新，要輸入pip3 install mako==1.1.3更新到1.1.3的版本才可以使用，登入進去碰到授權失敗的問題是google的問題，解決後即可使用</p>
 <p>以下是我的操作影片:<a href="https://youtu.be/6bWKP8PWglI">https://youtu.be/6bWKP8PWglI</a></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/6bWKP8PWglI" width="560"></iframe></p>
-<p></p><h1>Assignment</h1>
+<p><big>Ipv6 連線個人倉儲</big></p>
+<p><img alt="" height="437" src="/images/Ipv6網路設定.png" width="668"/></p>
+<p><img alt="" height="486" src="/images/Ipv6網路設定-2.png" width="628"/></p>
+<p>要先把網路設定成跟上面2張圖一樣</p>
+<p>Ipv6位址後面2碼是自己的學號後2碼</p>
+<p>這樣就可以進行如下面影片的操作步驟-<a href="https://youtu.be/pDA99CINIco">https://youtu.be/pDA99CINIco</a></p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/pDA99CINIco" width="560"></iframe></p>
+<h1>期末報告</h1>
+<p></p>
+<h1>Assignment</h1>
 <p></p>
 <h2>Assignment1</h2>
 <p><span>2a類將於2020年3月25日到期，而2b類將於2020年3月26日到期。</span></p>
@@ -123,7 +134,8 @@
 <p>報告連結: <a href="https://github.com/s40723245/cd2020/blob/master/downloads/Assignment1.pdf">Assignment1</a></p>
 <p><iframe height="600" src="https://s40723245.github.io/cd2020/downloads/Assignment1.pdf" width="880"></iframe></p>
 </li>
-</ol><h2>Assignment2</h2>
+</ol>
+<h2>Assignment2</h2>
 <p><span>2a類將於2020年4月22日到期，2b類將於2020年4月23日到期。</span></p>
 <ol>
 <li>
@@ -265,11 +277,13 @@
 <p>雖然所有轉錄的數據都載有與設計過程有關的資訊，但它們都與其他內容混合在一起，包括專案的情況和目標、個人的作用、必要的技能和知識、行為者之間的衝突、彼此的感知圖像等。我們首先通過審查相關文獻來確定過程要素用於構建設計過程的<span>"</span>過程元素<span>"</span>，從而制定了編碼框架。我們多次通過多次抄錄公司的採訪記錄來證實他們。關於過程建模的兩種觀點，觀看過程作為資訊處理和狀態轉換系統，為流程建模的流程元素編碼類別提供了有意義的線索。</p>
 <p>進入狀態轉換，有兩個活動<span>:</span>執行任務和評估結果。大多數情況下，評估發生在相對較短的時間段內，以決定<span>"</span>前進、重複或下降<span>"</span>。因此<span>,</span>我們把這類活動<span>(</span>評估、設計重新查看、門查、決策<span>)</span>命名為<span>"</span>事件<span>"</span>。在此關頭，我們有兩個編碼類別<span>;'</span>任務<span>'</span>和<span>'</span>事件<span>'</span>。最後<span>,</span>我們可以對設計過程進行四個編碼類別的建模<span>;'</span>任務<span>'''</span>事件<span>',"</span>資訊流<span>"</span>和<span>"</span>交互<span>"</span>，可以表示與階段的連接。此時，設計過程的階段可以使用「輸入<span>e</span>工作<span>(</span>設計活動<span>)ee</span>事件<span>(</span>決策<span>)ee</span>輸出「來表示。下面介紹了如何使用上述四個編碼類別對流程元素進行編碼。</p>
 <p> 任務<span>:</span>清除設計人員執行的任務<span>,</span>如<span>"</span>創意草圖<span>"</span>、<span>"3D </span>建模<span>"</span>等。答辯人說<span>;</span>是的<span>,</span>我用圓珠筆做素描來表達我的想法。很少著色或掃描它，以修飾<span> Photoshop</span>。<span>'</span>我們將其編碼為一個任務類別，標籤為<span>"</span>創意草圖<span>"</span>。</p>
-<p> 事件<span>:</span>在特定任務之後，事件<span>(</span>決策<span>)</span>繼續進行，從而導致下一個操作。答辯人說<span>;</span>我們去類比公司製作原型，並帶來所有兩個或三個原型。與他們舉行模擬評估會議。工程師們聽了老闆的批評。老闆說，這是，也就是說，那麼如果工程師有不同的想法，他們提供的意見。<span>.(</span>省略<span>). </span>最後選擇了一個。我們在事件類別中使用標籤<span>"</span>類比評估會議<span>"</span>對其進行編碼。資訊流<span>:</span>當發生任務或事件時生成資訊流。它總是伴隨著輸入和輸出。答辯人說<span>;</span>事實上，我們根據從工程設計公司收到的規範開展工作。在有事到達之前，我們不會開始工作。描述工業設計師從工程設計師那裡收到<span>"</span>規範數據<span>"</span>作為輸入<span>,</span>他們開始工作。我們將此<span>"</span>從<span> ED </span>的規範數據編碼為<span> ID</span>」。另一個摘錄是，選擇模型后，我們將模型的<span> 3D </span>數據傳遞給工程部門。</p><h2>Assignment3</h2>
+<p> 事件<span>:</span>在特定任務之後，事件<span>(</span>決策<span>)</span>繼續進行，從而導致下一個操作。答辯人說<span>;</span>我們去類比公司製作原型，並帶來所有兩個或三個原型。與他們舉行模擬評估會議。工程師們聽了老闆的批評。老闆說，這是，也就是說，那麼如果工程師有不同的想法，他們提供的意見。<span>.(</span>省略<span>). </span>最後選擇了一個。我們在事件類別中使用標籤<span>"</span>類比評估會議<span>"</span>對其進行編碼。資訊流<span>:</span>當發生任務或事件時生成資訊流。它總是伴隨著輸入和輸出。答辯人說<span>;</span>事實上，我們根據從工程設計公司收到的規範開展工作。在有事到達之前，我們不會開始工作。描述工業設計師從工程設計師那裡收到<span>"</span>規範數據<span>"</span>作為輸入<span>,</span>他們開始工作。我們將此<span>"</span>從<span> ED </span>的規範數據編碼為<span> ID</span>」。另一個摘錄是，選擇模型后，我們將模型的<span> 3D </span>數據傳遞給工程部門。</p>
+<h2>Assignment3</h2>
 <p>Due May 27, 2020 for class 2a and May 28, 2020 for class 2b.</p>
 <p>According to the reading of Topic 2 and Topic 3, propose a Mechatronic project by using CoppeliaSim or Webots and Onshape.</p>
 <p>報告連結: <a href="https://github.com/s40723245/cd2020/blob/master/downloads/Assignment3.pdf">Assignment3</a></p>
-<p><iframe height="600" src="https://s40723245.github.io/cd2020/downloads/Assignment3.pdf" width="880"></iframe></p><h1>Notes</h1>
+<p><iframe height="600" src="https://s40723245.github.io/cd2020/downloads/Assignment3.pdf" width="880"></iframe></p>
+<h1>Notes</h1>
 <h2>Program instructions</h2>
 <p><big><span style="color: #ff0000;">git submodule add</span> <span style="color: #00ff00;">https://github.com/mdecourse/cmsimde.git cmsimde</span><br/><span style="color: #ff0000;">python -m pip install flask_cors</span> 要更新下載flask_cors<br/><span style="color: #ff0000;">git clone --recurse-submodules</span> <span style="color: #00ff00;">https://github.com/solvespace/solvespace.git solvespace</span><br/>從遠端copy cmsimde必須，網址改cmsimde的<br/>pelican markdown -o blog -s local_publishconf.py<br/>&lt;font size="1"&gt;指定字體大小為1&lt;/font&gt; **最多到7<br/><span style="color: #ff0000;">git checkout -b s40723245-master</span> master 切換成master主支<br/><span style="color: #ff0000;">git branch</span> 確定主支</big></p>
 <p><big>問題1</big></p>
