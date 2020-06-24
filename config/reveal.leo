@@ -710,7 +710,7 @@ Ipv6 Ubuntu對外連線設定編輯個人倉儲
 
 Final project
 
-&lt;p&gt;&lt;iframe width="880" height="600" src="https://s40723245.github.io/cd2020/downloads/Final%20project.pdf"&gt;&lt;/iframe&gt;&lt;/p&gt;</t>
+&lt;p&gt;&lt;iframe width="880" height="600" src="https://s40723245.github.io/cd2020/downloads/Finalproject.pdf"&gt;&lt;/iframe&gt;&lt;/p&gt;</t>
 <t tx="leo.20200625054733.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
